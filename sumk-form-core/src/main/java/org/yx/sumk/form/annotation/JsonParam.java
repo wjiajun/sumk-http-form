@@ -7,7 +7,7 @@ import java.lang.annotation.RetentionPolicy;
 import java.lang.annotation.Target;
 
 /**
- * json方法标识
+ * json方法标识（可选标识，因为默认使用json）
  *
  * @author wjiajun
  */
