@@ -9,6 +9,10 @@ import org.yx.http.handler.WebContext;
 import org.yx.sumk.form.resolver.method.ParamPojoResolver;
 import org.yx.sumk.form.resolver.method.ParamPojoResolvers;
 
+/**
+ * 表单处理器
+ * @author wjiajun
+ */
 @Bean
 public class FormedHttpHandler extends AbstractHttpHandler {
 

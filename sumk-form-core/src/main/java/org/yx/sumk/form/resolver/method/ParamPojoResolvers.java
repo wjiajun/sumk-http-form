@@ -10,8 +10,8 @@ import java.util.Collections;
 import java.util.List;
 
 /**
+ * 参数类型解析门面
  * @author : wjiajun
- * @description: 参数类型解析门面
  */
 @Bean
 public class ParamPojoResolvers implements Plugin {

@@ -1,5 +1,12 @@
 package org.yx.sumk.form.resolver;
 
+/**
+ * 参数解析统一接口
+ *
+ * @param <IN>
+ * @param <OUT>
+ * @author wjiajun
+ */
 public interface HandlerResolver<IN, OUT> {
 
 	/**

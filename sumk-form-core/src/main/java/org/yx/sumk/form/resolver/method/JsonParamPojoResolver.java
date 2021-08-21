@@ -9,8 +9,8 @@ import javax.servlet.http.HttpServletRequest;
 import java.util.Objects;
 
 /**
+ * json方法解析类
  * @author : wjiajun
- * @description: json方法解析类
  */
 @Bean
 public class JsonParamPojoResolver implements ParamPojoResolver<WebContext, String> {
